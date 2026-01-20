@@ -27,3 +27,9 @@ venv/
 # Logs
 logs/
 *.log
+
+# Documentation
+*.md
+
+# Local Cloud Storage
+local_storage/
